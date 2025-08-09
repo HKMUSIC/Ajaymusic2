@@ -32,7 +32,7 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/UHMM_OHK"),
+          InlineKeyboardButton("𝗦𝗨𝗣𝗣𝗢𝗥𝗧", url="https://t.me/+q21psjvgiKMyZjVl"),
           InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/II_YOUR_GOJO_ll"),
           ],
                [
@@ -66,7 +66,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/drxbots) | [UPDATES](https://t.me/drxgiveway)
+        text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://github.com/drxbots) | [UPDATES](https://t.me/GOJO_SUPPORT_GROUP_II)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
